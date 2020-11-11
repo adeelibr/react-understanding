@@ -1,0 +1,7 @@
+# deps
+node_modules
+# lock
+package-lock.json
+# parcel
+.cache
+dist
