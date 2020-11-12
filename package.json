@@ -21,8 +21,5 @@
     "presets": [
       "@babel/preset-react"
     ]
-  },
-  "browserslist": [
-    "last 2 Chrome versions"
-  ]
+  }
 }
