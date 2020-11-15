@@ -8,11 +8,15 @@ there states and everything I learn will be added to this codebase.
 
 [This for personal learning only]
 
-## Great talks
+## Great talks 🐤
 
 - https://www.youtube.com/watch?v=_MAD4Oly9yg - Paul O Shannessy
 - https://www.youtube.com/watch?v=f2mMOiCSj5c - Tejas Kumar
 - https://www.youtube.com/watch?v=gR3vQmd34S8 - Nir Kaufman
+
+## Brilliant blog posts 🐐
+
+- https://pomb.us/build-your-own-react/ - Rodrigo Pombo
 
 ## Find me 🐌
 
