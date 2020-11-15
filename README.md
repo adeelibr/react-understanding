@@ -18,6 +18,10 @@ there states and everything I learn will be added to this codebase.
 
 - https://pomb.us/build-your-own-react/ - Rodrigo Pombo
 
+## Source code 🦜
+
+- https://unpkg.com/react@17/umd/react.development.js - React developement compiled code
+
 ## Find me 🐌
 
 ✨✨ twitter.com/adeelibr
