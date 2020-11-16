@@ -1,3 +1,23 @@
+## How to run 🌋
+
+This repository only uses `parcel` for bundling & 2 `babel` presets namely
+
+- @babel/preset-env: "^7.12.1"
+- @babel/preset-react: "^7.12.5"
+
+This repository has 3 chapters, in order to run each chapter all you have to do
+is after cloning this repository.
+
+- Go in your folder root directory & run `npm install` / `yarn install`
+- Once the dependencies have been installed to run each chapter you can run the
+command below
+
+```code
+  npm run start:chapter::1; // will run chapter 1
+  npm run start:chapter::2; // will run chapter 2
+  npm run start:chapter::3; // will run chapter 3
+```
+
 ## Purpose 🦮
 
 For understanding how react works internally, so hopefully one day I can commit
