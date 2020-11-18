@@ -44,6 +44,10 @@ there states and everything I learn will be added to this codebase.
 
 - https://unpkg.com/react@17/umd/react.development.js - React developement compiled code
 
+## Code walk through 🐐
+
+- https://www.youtube.com/watch?v=aS41Y_eyNrU - Dan Abramov
+
 ## Find me 🐌
 
 ✨✨ twitter.com/adeelibr

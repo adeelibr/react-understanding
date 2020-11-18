@@ -157,7 +157,6 @@ let wipRoot = null
 let deletions = null
 
 function workLoop(deadline) {
-  console.log(deadline.timeRemaining())
   let shouldYield = false
   while (nextUnitOfWork && !shouldYield) {
     nextUnitOfWork = performUnitOfWork(
